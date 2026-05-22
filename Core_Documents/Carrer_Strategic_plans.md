@@ -213,3 +213,16 @@ Top destructive factors here are :
 - Pornography : Avoid use of phones or taking breaks when working, Fapless streak
 - YouTube and similar media : very strict monitoring and shutdown after a limit, Keep windows for viewing.
 - Gluttony : Stay away for kitchen, Zero app, don't break work flow and time
+
+8. Lightheartedness and focused preparation
+
+A good mood is the great and more stable for deep work.
+A good laugh and smile can make your day infinitely better.
+Not just for yourself but for people working around you.
+Essentially, you and others will be more enthusiastic to work in a positive environment.
+I am a naturally funny person, use that to transform your environment into a positive one.
+
+### Solutions
+
+- Watch SDMN Sundays regularly.
+- Make a jokes.md to pull jokes from anytime.

@@ -23,3 +23,4 @@
    1. Creativity : using imagination for work
    2. Problem solving : Finding solutions to challenges.
 10. **Wellness** : Sticking to exercise routine and healthy diet.
+11. Lightheartedness and focused on preparation : Keep mood positive and funny
