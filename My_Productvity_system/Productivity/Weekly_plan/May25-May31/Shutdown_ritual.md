@@ -1,0 +1,4 @@
+- Shutdown ritual Questions
+  - 1. What you did in shutdown ritual ?
+  - 2. How easily you slept ?
+  - 3. How do you feel in the morning ?

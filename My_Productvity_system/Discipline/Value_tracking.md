@@ -1,26 +1,13 @@
-# Description
+# Values and tracking
 
-    - I **review my values once a week** and
-      - **create a value plan** for that week with notes about what to emphasize and
-      - perhaps **experimental habits/ rules** to try out that week to help keep me closer to my values. Include best practices for mental health in my value plan.
-    - I review my **strategic plans (and extended plans)** **once a week**,
-      - preferably when doing my **weekly plan**).
-      - I can tweak them at any time, but i try to give them **major overhauls roughly once a semester (fall, winter/spring, summer)**
-    - I sometimes maintain an **idea notebook and/or digital idea storage system** keeping thoughts on value and strategic plans.
-      - I should **review this in detail**, at the very least, when i do my **strategic plan updates.**
+    - How do you track values with metrics ?
+    - Review weekly and daily with value_plan.md
 
-1. Work Ethic
+## Work ethic
 
-### Solutions
-
-- 2 times a week have a markup days ( where you try to give your best performance.)
 - Remember in the work session to fully focus on the workout and resist distractions.
 
-2. Self-discipline and perseverance :
-
-## Self-discipline
-
-### Solutions
+## Self-discipline and perseverance
 
 1. Music : very specific windows when you listen music and which music you listen to.
 2. YouTube : very specific windows when you listen music and which music you listen to.
@@ -34,35 +21,22 @@
 10. Over-introspection and talking to one-self : Strict time blocking and Core systems, Meditation
 11. Create unbroken chained streaks everyday. Measure them with respective applications.
 12. Create separate window for entertainment as a reward.
+13. Pray to GOD for strength.
+14. Be optimistic and pushing your limit to develop that stamina and increasing "Frustration threshold"
 
-## Perseverance
-
-### Solutions
-
-Pray to GOD for strength.
-Be optimistic and pushing your limit to develop that stamina and increasing "Frustration threshold"
-
-2. Education and self-improvement
-
-### Solutions
+## Education and self-improvement
 
 - Reminding yourself that you get to live only once.
 - Don't let the outside world influence you in your pursuit for living a deep life.
 - Remind yourself that GOD will hold your hands in the most difficult terrain.
 - Assesss weekly exercise performance. Rate of improvement. Whether the technique is correct. How to make it progressively harder.
 
-3. Compromise
-
-### Solutions
+## Compromise
 
 - Remind yourself that you are making sacrifices and compromises for producing "VALUE"
 - Strictly follow the segregation b/w work and entertainment.
 
-4. Pragmatism and Realism
-
 ## Pragmatism
-
-### Solutions
 
 - Build and follow efficient systems that respect time.
 - Follow conservatism
@@ -72,13 +46,9 @@ Be optimistic and pushing your limit to develop that stamina and increasing "Fru
 
 ## Realism and Mindfulness
 
-### Solutions
-
 - Take mindfulness practices seriously and practice it as much as possible.
 
-5. Accountability and self-reflection
-
-### Solutions
+## Accountability and self-reflection
 
 - Create a system that rewards(INCENTIVE) and penalizes(FEAR) you.
 - Take reflection period seriously and review your performance after regular intervals.
@@ -86,16 +56,12 @@ Be optimistic and pushing your limit to develop that stamina and increasing "Fru
 - Weekly / Daily assessments.
 - Remind yourself to push your limits in that session.
 
-6. Creativity and problem solving
-
-### Solutions
+## Creativity and problem solving
 
 - Take reflection practice seriously and regularly
 - Allot time to problems and assess how creative can you be within that interval.
 
-7. Wellness
-
-### Solutions
+## Wellness
 
 - Pornography : Avoid use of phones or taking breaks when working, Fapless streak
 - YouTube and similar media : very strict monitoring and shutdown after a limit, Keep windows for viewing.
@@ -104,9 +70,7 @@ Be optimistic and pushing your limit to develop that stamina and increasing "Fru
 - No Junk food, focus on healthy delicious food which is easily digestible. And Nutritional value.
 - No deviation from routine and don't exceed your entertainment time.
 
-8. Lightheartedness and focused preparation
-
-### Solutions
+## Lightheartedness and focused preparation
 
 - Watch SDMN Sundays regularly.
 - Make a jokes.md to pull jokes from anytime.
