@@ -3,20 +3,31 @@
 ## Primary and top level (Not in order)
 
 1. Football and Exercise
-2. Martial arts (Mauy Thai and Boxing and Ju-jitsu)
+2. Martial arts ( Muay Thai and Boxing and Ju-jitsu)
 3. Diet
 4. Sleep
 5. Understanding how businesses work
 
 Q1 (April - June)
 
-1. Setting benchmarks for gym and on field workouts(10 markups)
-2. Not a single day off unless it's stretching.
-3. Set proper documentation for each workout and football type.
+### Workout and exercise
+
+1. 10 markups : Setting benchmarks for gym and on field workouts(10 markups)
+2. No days off : Not a single day off unless it's stretching.
+3. Proper documentation for each type : Set proper documentation for each workout and football type.
 4. Master beginners muay thai video
-5. Strict diet and timing of diet.
+
+### Diet
+
+5. Breakfast and dinner (timing and same food) : Strict diet and timing of diet.
+
+### Sleep
+
 6. Set wakeup and sleep time, collect it data on sleep quality
 7. Established shutdown ritual
+
+### Understanding how businesses work
+
 8. Have a business mindset and make a business.md while learning things.
 
 ## Secondary level (Not in order)
@@ -36,9 +47,14 @@ Q1 (April - June)
 
 Q1(April - June)
 
+### Time management
+
 1. Set time for sdmn, podcast and football analysis.
-2. Make proper adjustments to core systems.
-3. Follow routine for facewash, exfoliation, mask.
+2. Follow routine for facewash, exfoliation, mask.
+
+### Weekly review
+
+3. Make proper adjustments to core systems.
 
 # Experimental systems
 
