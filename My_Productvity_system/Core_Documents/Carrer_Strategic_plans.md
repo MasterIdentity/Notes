@@ -2,6 +2,8 @@
 
 ## Primary and top level
 
+### Q1 (April - June)
+
 - Preparation for September exams
 
 I intend to prepare in the following manner
@@ -11,6 +13,355 @@ I intend to prepare in the following manner
 3. Making a concept flowchart and doing flashcards on it 5x.
 
 Time window left for doing the above is **3 months**.
+
+#### Law
+
+##### Procedure :
+
+1. Flashcards
+   - Ideally all, if not possible => Most important ones
+2. Questions
+   - As many as possible
+3. Concept chart
+   - Make concept charts of all chapters
+   - If possible, flash them as well
+4. Skimming is an option if we are struggling to do 1,2 and 3
+
+##### Objectives
+
+1. Week 1 :
+   - Incorporation of company and matters incidental thereto
+   - Prospectus
+   - Preliminary
+2. Week 2 :
+   - LLP
+   - GCA
+   - IOS
+   - FEMA
+3. Week 3 :
+   - MGMT
+   - Audit and Auditors
+4. Week 4
+   | Chapters |
+   | ------------- |
+   | AOC |
+   | Declaration and payment of Dividend |
+   | Companies incorporated outside India |
+5. Week 5
+   | Chapters |
+   | ------------- |
+   | Share capital and debentures |
+   | Acceptance of deposits |
+
+#### Audit
+
+##### Procedure :
+
+1. Flashcards
+   - Ideally all, if not possible => Most important ones
+2. Questions
+   - As many as possible
+3. Concept chart
+   - Make concept charts of all chapters
+   - If possible, flash them as well
+4. Skimming is an option if we are struggling to do 1,2 and 3
+
+##### Objectives
+
+1. Week 1
+   | Chapters |
+   | ------------- |
+   | Audit of different types of Entities |
+   | Chapter 5 + CARO |
+2. Week 2
+   | Chapters |
+   | ------------- |
+   | Chapter 4 (Audit Evidence) |
+   | Chapter 5 + CARO |
+3. Week 3
+   | Chapters |
+   | ------------- |
+   | Chapter 2 |
+   | Chapter 3 |
+   | Chapter 11 |
+
+4. Week 4
+   | Chapters |
+   | ------------- |
+   | Audit report |
+   | Audit of banks |
+
+5. Week 5
+   | Chapters |
+   | ------------- |
+   | Chapter 9 |
+   | Chapter 10 |
+
+#### Accounting
+
+##### Procedure :
+
+1. Flashcards
+   - Ideally all, if not possible => Most important ones
+2. Questions
+   - As many as possible
+3. Concept chart
+   - Make concept charts of all chapters
+   - If possible, flash them as well
+4. Skimming is an option if we are struggling to do 1,2 and 3
+
+##### Objectives
+
+1. Week 1
+   | Chapters |
+   | ------------- |
+   | Consolidation AS 21|
+   | AS 14 |
+   | AS 20 |
+2. Week 2
+   | Chapters |
+   | ------------- |
+   | FSoC |
+   | CFS|
+   | Buy-back |
+3. Week 3
+   | Chapters |
+   | ------------- |
+   |Branch accounting|
+   | Internal reconstruction |
+
+4. Week 4
+   | Chapters |
+   | ------------- |
+   | AS 2|
+   | AS 19|
+   | As 10 |
+
+5. Week 5
+   | Chapters |
+   | ------------- |
+   |AS 13|
+   | AS 17 |
+   | AS 18 |
+
+#### CMA
+
+##### Procedure :
+
+1. Flashcards
+   - Ideally all, if not possible => Most important ones
+2. Questions
+   - As many as possible
+3. Concept chart
+   - Make concept charts of all chapters
+   - If possible, flash them as well
+4. Skimming is an option if we are struggling to do 1,2 and 3
+
+##### Objectives
+
+1. Week 1
+   | Chapters |
+   | ------------- |
+   | Standard costing|
+   | Marginal costing|
+   |Budgetary |
+2. Week 2
+   | Chapters |
+   | ------------- |
+   | Material costing|
+   | Employee costing|
+3. Week 3
+   | Chapters |
+   | ------------- |
+   | Overheads|
+   |ABC costing|
+
+4. Week 4
+   | Chapters |
+   | ------------- |
+   |Cost sheet|
+   |Cost accounting systems|
+
+5. Week 5
+   | Chapters |
+   | ------------- |
+   |Unit and batch costing |
+   | Job costing|
+   | Process costing |
+
+#### DT
+
+##### Procedure :
+
+1. Flashcards
+   - Ideally all, if not possible => Most important ones
+2. Questions
+   - As many as possible
+3. Concept chart
+   - Make concept charts of all chapters
+   - If possible, flash them as well
+4. Skimming is an option if we are struggling to do 1,2 and 3
+
+##### Objectives
+
+1. Week 1
+   | Chapters |
+   | ------------- |
+   |Capital gains|
+2. Week 2
+   | Chapters |
+   | ------------- |
+   | Salaries |
+   | PGBP|
+3. Week 3
+   | Chapters |
+   | ------------- |
+   |IFOS|
+   | House property|
+
+4. Week 4
+   | Chapters |
+   | ------------- |
+   | Deductions|
+   | Basics of DT|
+   | Residential status |
+
+5. Week 5
+   | Chapters |
+   | ------------- |
+   | Income included |
+   |Aggreagtion,|
+
+#### GST
+
+##### Procedure :
+
+1. Flashcards
+   - Ideally all, if not possible => Most important ones
+2. Questions
+   - As many as possible
+3. Concept chart
+   - Make concept charts of all chapters
+   - If possible, flash them as well
+4. Skimming is an option if we are struggling to do 1,2 and 3
+
+##### Objectives
+
+1. Week 1
+   | Chapters |
+   | ------------- |
+   | Supply under GST |
+   | Charge under GST |
+2. Week 2
+   | Chapters |
+   | ------------- |
+   | Place of supply |
+   | Time of supply|
+   | Value of supply |
+3. Week 3
+   | Chapters |
+   | ------------- |
+   | Exemptions from GST|
+   | ITC|
+
+4. Week 4
+   | Chapters |
+   | ------------- |
+   | Registration |
+   | Ch 10|
+
+5. Week 5
+   | Chapters |
+   | ------------- |
+   | Chapter 11|
+   | Chapter 12|
+
+#### FM
+
+##### Procedure :
+
+1. Flashcards
+   - Ideally all, if not possible => Most important ones
+2. Questions
+   - As many as possible
+3. Concept chart
+   - Make concept charts of all chapters
+   - If possible, flash them as well
+4. Skimming is an option if we are struggling to do 1,2 and 3
+
+##### Objectives
+
+1. Week 1
+   | Chapters |
+   | ------------- |
+   | L 35|
+   | L36|
+   | L37 |
+2. Week 2
+   | Chapters |
+   | ------------- |
+   | L38|
+   | L39|
+   |L40|
+3. Week 3
+   | Chapters |
+   | ------------- |
+   | L41|
+   | L42|
+   | L43|
+
+4. Week 4
+   | Chapters |
+   | ------------- |
+   | L44|
+   | L45|
+   | L46|
+   | L47|
+
+5. Week 5
+   | Chapters |
+   | ------------- |
+   | L48|
+   | L49|
+   | L50|
+   | L51|
+   | L52|
+
+#### SM
+
+##### Procedure :
+
+1. Flashcards
+   - Ideally all, if not possible => Most important ones
+2. Questions
+   - As many as possible
+3. Concept chart
+   - Make concept charts of all chapters
+   - If possible, flash them as well
+4. Skimming is an option if we are struggling to do 1,2 and 3
+
+##### Objectives
+
+1. Week 1 :
+   | Chapters |
+   | ------------- |
+   | Chapter 5 |
+2. Week 2 :
+   | Chapters |
+   | ------------- |
+   | Chapter 4 |
+3. Week 3 :
+   | Chapters |
+   | ------------- |
+   | Chapter 3 |
+4. Week 4
+   | Chapters |
+   | ------------- |
+   | Chapter 4|
+5. Week 5
+   | Chapters |
+   | ------------- |
+   |Chapter 5|
 
 ## Secondary level
 
@@ -39,6 +390,39 @@ Completing would require
 2. Complete chapter 2
 3. Complete chapter 3
 4. Complete chapter 4
+
+##### Ron Larson
+
+1. Complete perquisites
+2. Complete whole of chapter 1
+3. Do the review exercises
+4. Do the chapter Test
+5. Chapter 2 (Functions and their graphs)
+6. Chapter 3 (Conic functions)
+
+##### Khan academy
+
+1. Unit 1
+2. Unit 2
+3. Unit 3
+4. Unit 4
+5. Unit 5
+
+##### CS with python
+
+1. Chapter 1
+2. Chapter 2 (Data representation)
+3. Chapter 3 (Boolean logic)
+4. Chapter 4 (Introduction to problem solving)
+5. Chapter 6 (Python Fundamentals)
+
+##### 100 days of code
+
+1. Day 13 and Day 14
+2. Day 15 and Day 16
+3. Day 17 and Day 18
+4. Day 19 and Day 20
+5. Day 21 and Day 22
 
 # Experimental systems
 
