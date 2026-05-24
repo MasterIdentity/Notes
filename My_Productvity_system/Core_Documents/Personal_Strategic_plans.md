@@ -49,7 +49,7 @@ Q1(April - June)
 
 ### Time management
 
-1. Set time for sdmn, podcast and football analysis.
+1. Set time for sdmn, podcasts or books and football analysis.
 2. Follow routine for facewash, exfoliation, mask.
 
 ### Weekly review
