@@ -1,0 +1,6 @@
+- Reminding yourself that you get to live only once.
+- Don't let the outside world influence you in your pursuit for living a deep life.
+- Remind yourself that GOD will hold your hands in the most difficult terrain.
+- Remind yourself that you are making sacrifices and compromises for producing "VALUE"
+- Follow conservatism
+- Remind yourself to push your limits in that time interval.

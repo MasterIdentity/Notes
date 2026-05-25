@@ -9,14 +9,7 @@
     - I sometimes maintain an **idea notebook and/or digital idea storage system** keeping thoughts on value and strategic plans.
       - I should **review this in detail**, at the very least, when i do my **strategic plan updates.**
 
-1. Work Ethic
-
-### Solutions
-
-- 2 times a week have a markup days ( where you try to give your best performance.)
-- Remember in the work session to fully focus on the workout and resist distractions.
-
-2. Self-discipline and perseverance :
+1. Self-discipline and perseverance :
 
 ## Self-discipline
 
@@ -32,8 +25,6 @@
 8. Sleep : Shutdown schedule, Proper daily work and exercise for sleepiness during night.
 9. Lack of connection with GOD : 5 min morning and night prayer, small prayers throughout the day.
 10. Over-introspection and talking to one-self : Strict time blocking and Core systems, Meditation
-11. Create unbroken chained streaks everyday. Measure them with respective applications.
-12. Create separate window for entertainment as a reward.
 
 ## Perseverance
 
@@ -49,14 +40,12 @@ Be optimistic and pushing your limit to develop that stamina and increasing "Fru
 - Reminding yourself that you get to live only once.
 - Don't let the outside world influence you in your pursuit for living a deep life.
 - Remind yourself that GOD will hold your hands in the most difficult terrain.
-- Assesss weekly exercise performance. Rate of improvement. Whether the technique is correct. How to make it progressively harder.
 
 3. Compromise
 
 ### Solutions
 
 - Remind yourself that you are making sacrifices and compromises for producing "VALUE"
-- Strictly follow the segregation b/w work and entertainment.
 
 4. Pragmatism and Realism
 
@@ -66,9 +55,6 @@ Be optimistic and pushing your limit to develop that stamina and increasing "Fru
 
 - Build and follow efficient systems that respect time.
 - Follow conservatism
-- Weekly / Daily assessments. Standard output and actual outputs. Adverse results and how to mitigate them.
-- Mediation practice seriously everyday.
-- Remind yourself to push your limits in that time interval.
 
 ## Realism and Mindfulness
 
@@ -83,8 +69,6 @@ Be optimistic and pushing your limit to develop that stamina and increasing "Fru
 - Create a system that rewards(INCENTIVE) and penalizes(FEAR) you.
 - Take reflection period seriously and review your performance after regular intervals.
 - Tweak systems regularly to get optimal results.(IMPROVEMENTS)
-- Weekly / Daily assessments.
-- Remind yourself to push your limits in that session.
 
 6. Creativity and problem solving
 
@@ -100,9 +84,6 @@ Be optimistic and pushing your limit to develop that stamina and increasing "Fru
 - Pornography : Avoid use of phones or taking breaks when working, Fapless streak
 - YouTube and similar media : very strict monitoring and shutdown after a limit, Keep windows for viewing.
 - Gluttony : Stay away for kitchen, Zero app, don't break work flow and time
-- Maintain diet and fasting sessions
-- No Junk food, focus on healthy delicious food which is easily digestible. And Nutritional value.
-- No deviation from routine and don't exceed your entertainment time.
 
 8. Lightheartedness and focused preparation
 
@@ -110,5 +91,3 @@ Be optimistic and pushing your limit to develop that stamina and increasing "Fru
 
 - Watch SDMN Sundays regularly.
 - Make a jokes.md to pull jokes from anytime.
-- Watch SDMN Sundays.
-- Make a jokes.md

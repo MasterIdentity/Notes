@@ -9,51 +9,56 @@
 
 ### Solutions
 
-- Breathing cues / Count (New metric to add)
-- Rest timers (New metric to add)
-- Post-workout reflections (Notes)
-- Avoid music during workouts
+- ## Breathing cues / Count (New metric to add) (Action required)
+- Rest timers (New metric to add) (Action required) [x]
+- Post-workout reflections (Notes) (Action required) [ x ]
+- Avoid music during workouts (Action required) [ x]
 
 ## Self-discipline and perseverance
 
 1. Music : very specific windows when you listen music and which music you listen to.
-   - One song during drive towards workout (Action required)
-   - Blockers : Stay focused blocker and leechblock (Action required)
+   - One song during drive towards workout (Action required) [x]
+   - Blockers : Stay focused blocker and leechblock (Action required)[x]
+   - Delete all songs from phone (Action required)[x]
 2. YouTube : very specific windows when you watch and how much you watch
-   - End of each month : For Sidemen Sundays (15 min, 15 min) (Action required)
-   - Blockers : Stay focused blocker and leechblock (Action required)
+   - End of each month : For Sidemen Sundays (15 min, 15 min) (Action required) [x]
+   - Blockers : Stay focused blocker and leechblock (Action required) [x]
 3. Laziness : Time constraint and deadlines, Sleep and diet(fasting)
-   - Can be solved with a proper weekly and daily plan. (No action)
+   - Can be solved with a proper weekly and daily plan. (No action) [x]
 4. Pornography : Cold Turkey, only solution : Pray to GOD (proven)
-   - Pray to God and watch your Fapless streak grow.
-   - Blockers : Stay focused blocker and leechblock (Action required)
+   - Pray to God and watch your Fapless streak grow. [x]
+     - 7 day challenge [ x]
+   - Blockers : Stay focused blocker and leechblock (Action required) [x]
 5. Lack of time blocking : Core systems (weekly and daily plans)
    - Can be solved with a proper weekly and daily plan. (No action)
 6. Diet : Fasting and checking progress, rewards in Habitica, Pray to GOD
-   - Check-off list in Habitica (already present)
+   - Check-off list in Habitica (already present) [x]
    - Follow a plan for fasting (Action required)
+     - Habitica 7 challenge (10 hours b/w breakfast and lunch) [ x]
 7. New things : Core systems and discipline
-   - Proper time blocking with daily plan (Action required)
+   - Proper time blocking with daily plan (Action required) [x]
+     - Set habit and task in Habitica [x]
 8. Sleep : Shutdown schedule, Proper daily work and exercise for sleepiness during night.
-   - Shutdown.md
-   - Blockers : Stay focused blocker and leechblock (Action required)
+   - Shutdown.md [x]
+   - Blockers : Stay focused blocker and leechblock (Action required) [x]
 9. Lack of connection with GOD : 5 min morning and night prayer, small prayers throughout the day.
-   - Daily streak and prayer, add additional habit in habitica to praise GOD.
+   - Daily streak and prayer, add additional habit in habitica to praise GOD. [x]
 10. Over-introspection and talking to one-self : Strict time blocking and Core systems, Meditation
-    - Core systems and daily plan (No action required)
-    - Maintain meditation streak (Action required)
+    - Core systems and daily plan (No action required) [x]
+    - Maintain meditation streak (Action required) [x]
 11. Create unbroken chained streaks everyday. Measure them with respective applications.
     - Meditation : Medito
     - Bible : Bible
     - Zero : Fasting
     - Exercise : RemNote Daily
     - Water intake : (Action required)
+      - Hidroly [x]
 12. Create separate window for entertainment as a reward.
-    - End of each month : For Sidemen Sundays (15 min, 15 min) (Action required)
+    - End of each month : For Sidemen Sundays (Action required) [x]
 13. Pray to GOD for strength.
-    - Daily streak and prayer, add additional habit in habitica to praise GOD.
-14. Be optimistic and pushing your limit to develop that stamina and increasing "Frustration threshold"
-    - Frustration_threshold.md (Action required)
+    - Daily streak and prayer, add additional habit in habitica to praise GOD.[x]
+14. Be optimistic and pushing your limit to develop that stamina and increasing "Frustration threshold"[x]
+    - Frustration_threshold.md (Action required) [x]
       - Define frustration signals (Urge to procrastinate, urge to eat, urge to game, urge to break etc.)
       - Simple scaling system for each subject (1 - 10 )
       - Track triggers (eg> Noise distraction, Error persistence, Self-loathing etc.loathing )
@@ -61,37 +66,39 @@
 
 ## Education and self-improvement
 
-- Reminders (Action required)
+** Note : Reminders are kept in reminders.md**
+
+- Reminders (Action required) [x]
   - Reminding yourself that you get to live only once.
   - Don't let the outside world influence you in your pursuit for living a deep life.
   - Remind yourself that GOD will hold your hands in the most difficult terrain.
 - Assesss weekly exercise performance. Rate of improvement. Whether the technique is correct. How to make it progressively harder.
-  - Frustration_threshold.md (for academics) (Action required)
-  - Frustration_threshold.md (for exercises) (Action required)
+  - Frustration_threshold.md (for academics) (Action required) [x]
+  - Frustration_threshold.md (for exercises) (Action required) [x]
 
 ## Compromise
 
-- Reminders (Action required)
+- Reminders (Action required)[x]
   - Remind yourself that you are making sacrifices and compromises for producing "VALUE"
 - Strictly follow the segregation b/w work and entertainment.
-  - Daily_plan.md
+  - Daily_plan.md [ WIP ]
 
 ## Pragmatism
 
 - Build and follow efficient systems that respect time.
-  - Core systems (Weekly review)
-- Follow conservatism
+  - Core systems (Weekly review) [ Needs actual data]
+- Follow conservatism [x]
   - Reminders (Action required)
-- Weekly / Daily assessments. Standard output and actual outputs. Adverse results and how to mitigate them.
-  - Weekly review
-- Mediation practice seriously everyday.
+- Weekly / Daily assessments. Standard output and actual outputs. Adverse results and how to mitigate them. [x]
+  - Weekly review [x]
+- Mediation practice seriously everyday.[x]
   - Medito app
-- Remind yourself to push your limits in that time interval.
+- Remind yourself to push your limits in that time interval. [x]
   - Reminders (Action required)
 
 ## Realism and Mindfulness
 
-- Take mindfulness practices seriously and practice it as much as possible.
+- Take mindfulness practices seriously and practice it as much as possible.[x]
   - Medito app
 
 ## Accountability and self-reflection
