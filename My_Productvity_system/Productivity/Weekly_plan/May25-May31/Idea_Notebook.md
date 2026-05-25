@@ -10,3 +10,5 @@ Note : Your Idea notebook is your Harry Potter Journal (PHYSICAL)
      | -------------- | --------------- |
      | Prospectus | 20 |
      | Incorporation | 20 |
+2. Collect time taken for deep work problems
+   - Eg> Hotel fare problem (Time spent doing deep work to solve the problem)

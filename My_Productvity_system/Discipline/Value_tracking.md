@@ -104,25 +104,25 @@
 ## Accountability and self-reflection
 
 - Create a system that rewards(INCENTIVE) and penalizes(FEAR) you.
-  - SDMN (end of month) (INCENTIVE)
-  - Increase the penalty in Bee-minder (Action required)
-  - Set goal for the group study time. (Action required)
-  - Set bee-minder for workout, diet, sleep, podcast + books + My game analysis (Action required)
+  - SDMN (end of month) (INCENTIVE) [x]
+  - Increase the penalty in Bee-minder (Action required) [x]
+  - Set goal for the group study time. (Action required) [x]
+  - Set bee-minder for workout, diet, sleep, podcast + books + My game analysis (Action required) [x]
 
-- Take reflection period seriously and review your performance after regular intervals.
-  - Weekly review and quarterly review
-- Tweak systems regularly to get optimal results.(IMPROVEMENTS)
+- Take reflection period seriously and review your performance after regular intervals.[x]
+  - Weekly review and quarterly review [x]
+- Tweak systems regularly to get optimal results.(IMPROVEMENTS)[x]
   - Weekly review and quarterly review
 - Weekly / Daily assessments.
 - Remind yourself to push your limits in that session.
-  - Reminders (Action required)
+  - Reminders (Action required)[x]
 
 ## Creativity and problem solving
 
 - Take reflection practice seriously and regularly
-  - Reminders to look back and learn (Action required)
+  - Reminders to look back and learn (Action required) [x]
 - Allot time to problems and assess how creative can you be within that interval.
-  - Time blocking for problems with plan B (Action required)
+  - Time blocking for problems with plan B (Action required) [x]
 
 ## Wellness
 
@@ -137,11 +137,11 @@
 - No Junk food, focus on healthy delicious food which is easily digestible. And Nutritional value.
   - Previously mentioned
 - No deviation from routine and don't exceed your entertainment time.
-  - Daily_plan and time blocking
+  - Daily_plan and time blocking [x]
 
 ## Lightheartedness and focused preparation
 
 - Watch SDMN Sundays regularly.
-  - Previously mentioned
+  - Previously mentioned [x]
 - Make a jokes.md to pull jokes from anytime.
-  - Action required
+  - Action required [x]

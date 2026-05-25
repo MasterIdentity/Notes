@@ -4,3 +4,5 @@
 - Remind yourself that you are making sacrifices and compromises for producing "VALUE"
 - Follow conservatism
 - Remind yourself to push your limits in that time interval.
+- Remind yourself to push your limits in that session.
+- Reminders to look back and learn (Action required)
