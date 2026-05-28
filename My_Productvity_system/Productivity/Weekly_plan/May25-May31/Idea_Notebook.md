@@ -18,3 +18,5 @@ Note : Your Idea notebook is your Harry Potter Journal (PHYSICAL)
 - Maybe use AI
 - Maybe use Sheets
 - Think of new ideas (generally looking for improvement and consistency)
+
+4. Use breaks during workout to do a specific type of breathwork.
