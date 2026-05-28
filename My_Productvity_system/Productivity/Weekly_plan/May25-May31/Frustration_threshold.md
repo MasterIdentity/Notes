@@ -1,4 +1,0 @@
-      - Define frustration signals (Urge to procrastinate, urge to eat, urge to game, urge to break etc.)
-      - Simple scaling system for each subject (1 - 10 )
-      - Track triggers (eg> Noise distraction, Error persistence, Self-loathing etc.loathing )
-      - Weekly analysis (Tasks with >7 frustration, Peak times, Triggers you can control)

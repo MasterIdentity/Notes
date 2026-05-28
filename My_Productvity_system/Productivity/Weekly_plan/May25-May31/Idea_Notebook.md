@@ -12,3 +12,9 @@ Note : Your Idea notebook is your Harry Potter Journal (PHYSICAL)
      | Incorporation | 20 |
 2. Collect time taken for deep work problems
    - Eg> Hotel fare problem (Time spent doing deep work to solve the problem)
+   - Deep_work_problems.md or a Physical Harry Potter book
+3. Find a way to treat the data from exercises to have actual impact.
+
+- Maybe use AI
+- Maybe use Sheets
+- Think of new ideas (generally looking for improvement and consistency)

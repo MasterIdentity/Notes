@@ -1,0 +1,4 @@
+- Timing of sleep and diet
+- Feeling of sleep (How well you slept ?)
+- How are you feeling after the sleep you had ?
+- Effects on your diet (How do you feel after having your diet, bloating or any digestive issues ? )

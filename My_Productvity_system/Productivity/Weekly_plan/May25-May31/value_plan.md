@@ -1,13 +1,13 @@
 # Description
 
-    - I **review my values once a week** and
-      - **create a value plan** for that week with notes about what to emphasize and
-      - perhaps **experimental habits/ rules** to try out that week to help keep me closer to my values. Include best practices for mental health in my value plan.
-    - I review my **strategic plans (and extended plans)** **once a week**,
-      - preferably when doing my **weekly plan**).
-      - I can tweak them at any time, but i try to give them **major overhauls roughly once a semester (fall, winter/spring, summer)**
-    - I sometimes maintain an **idea notebook and/or digital idea storage system** keeping thoughts on value and strategic plans.
-      - I should **review this in detail**, at the very least, when i do my **strategic plan updates.**
+- I **review my values once a week** and
+  - **create a value plan** for that week with notes about what to emphasize and
+  - perhaps **experimental habits/ rules** to try out that week to help keep me closer to my values. Include best practices for mental health in my value plan.
+- I review my **strategic plans (and extended plans)** **once a week**,
+  - preferably when doing my **weekly plan**).
+  - I can tweak them at any time, but i try to give them **major overhauls roughly once a semester (fall, winter/spring, summer)**
+- I sometimes maintain an **idea notebook and/or digital idea storage system** keeping thoughts on value and strategic plans.
+  - I should **review this in detail**, at the very least, when i do my **strategic plan updates.**
 
 1. Self-discipline and perseverance :
 
